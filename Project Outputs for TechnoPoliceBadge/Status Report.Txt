@@ -1,0 +1,31 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [Proto] of PCB Document [TechnoPoliceBadge.PcbDoc]
+   Generated File[Gerber Files.GTO]
+   Generated File[Gerber Files.GTP]
+   Generated File[Gerber Files.GTS]
+   Generated File[Gerber Files.GTL]
+   Generated File[Gerber Files.GBL]
+   Generated File[Gerber Files.GBS]
+   Generated File[Gerber Files.GBP]
+   Generated File[Gerber Files.GBO]
+   Generated File[Gerber Files.GM1]
+   Generated File[Gerber Files.GM2]
+   Generated File[Gerber Files.GM3]
+   Generated File[Gerber Files.GM4]
+   Generated File[Gerber Files.GM5]
+   Generated File[Gerber Files.GM6]
+   Generated File[Gerber Files.GM7]
+   Generated File[Gerber Files.GKO]
+   Generated File[Gerber Files.GML]
+   Generated File[Gerber Files.1]
+   Generated File[Gerber Files.GD1]
+   Generated File[Gerber Files.RUL]
+   Generated File[Gerber Files.EXTREP]
+   Generated File[Gerber Files.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 09:58:50 On 27/07/2020
